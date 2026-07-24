@@ -8,7 +8,7 @@ import zipfile
 
 DOWNLOAD_URL = "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/{filename}"
 
-FILE_NAME = "ffmpeg-n7.0-latest-win64-gpl-{MAJOR}.{MINOR}.{ext}"
+FILE_NAME = "ffmpeg-n{MAJOR}.{MINOR}-latest-win64-gpl-{MAJOR}.{MINOR}.{ext}"
 
 DOWNLOAD_TYPES = {"windows": "zip"}
 

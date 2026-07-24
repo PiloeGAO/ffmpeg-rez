@@ -1,6 +1,6 @@
 name = "ffmpeg"
 
-version = "7.0.2"
+version = "8.1.2"
 
 authors = ["ffmpeg contributors", "Leo Depoix (@piloegao)"]
 
